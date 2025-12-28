@@ -15,7 +15,16 @@ export const advicesList = [
         bgColor: "bg-kid-secondary/10",
         borderColor: "border-kid-secondary"
     },
-    
+  
+    {
+        id: 3,
+        title: "সময়ের মূল্য দাও",
+        content: "সময় নদীর স্রোতের মতো, একবার চলে গেলে আর ফিরে আসে না। যে সময়কে সঠিকভাবে ব্যবহার করে, সে-ই জীবনে সফল হয়। খেলার সময় খেলো, পড়ার সময় পড়ো। আজকের কাজ আগামীকালের জন্য ফেলে রেখো না। সময়ের সঠিক ব্যবহার তোমাকে অন্যদের চেয়ে এগিয়ে রাখবে।",
+        image: "hhttps://i.ibb.co.com/7t1HCxhX/aa0d41d7-b5d0-4711-aa10-11750dfb8bed-Copy-Copy.jpg",
+        bgColor: "bg-kid-accent/10",
+        borderColor: "border-kid-accent"
+    },
+     
   // আদব-কায়দা (Manners)
   { id: 1, category: "Manners", text: "বড়দের দেখলে সালাম বা নমস্কার দাও।,"image: "https://i.ibb.co.com/7t1HCxhX/aa0d41d7-b5d0-4711-aa10-11750dfb8bed-Copy-Copy.jpg",
         bgColor: "bg-kid-secondary/10",
@@ -76,15 +85,6 @@ export const advicesList = [
   { id: 47, category: "Social", text: "কেউ পড়ে গেলে তাকে হাসাহাসি না করে টেনে তোলো।" },
   { id: 48, category: "Social", text: "বাসার কাজে মা-বাবাকে ছোট ছোট সাহায্য করো।" },
   { id: 49, category: "Social", text: "বিদ্যুৎ ও পানি অপচয় করবে না, কাজ শেষে ফ্যান-লাইট বন্ধ করো।" },
-  { id: 50, category: "Social", text: "নিজেকে ভালোবাসো এবং সবসময় আত্মবিশ্বাসী থাকো।" },
+  { id: 50, category: "Social", text: "নিজেকে ভালোবাসো এবং সবসময় আত্মবিশ্বাসী থাকো।" }
 
-    {
-        id: 3,
-        title: "সময়ের মূল্য দাও",
-        content: "সময় নদীর স্রোতের মতো, একবার চলে গেলে আর ফিরে আসে না। যে সময়কে সঠিকভাবে ব্যবহার করে, সে-ই জীবনে সফল হয়। খেলার সময় খেলো, পড়ার সময় পড়ো। আজকের কাজ আগামীকালের জন্য ফেলে রেখো না। সময়ের সঠিক ব্যবহার তোমাকে অন্যদের চেয়ে এগিয়ে রাখবে।",
-        image: "hhttps://i.ibb.co.com/7t1HCxhX/aa0d41d7-b5d0-4711-aa10-11750dfb8bed-Copy-Copy.jpg",
-        bgColor: "bg-kid-accent/10",
-        borderColor: "border-kid-accent"
-    },
-    // ... এভাবে আপনাকে ১০০টি পূর্ণ করতে হবে।
 ];
