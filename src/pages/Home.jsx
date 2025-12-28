@@ -12,7 +12,7 @@ const Home = () => {
             </p>
 
             <div className="p-4 bg-white rounded-3xl shadow-xl border-4 border-dashed border-kid-secondary max-w-md mx-auto mb-10">
-                <img src="https://cdn.pixabay.com/photo/2022/08/17/17/20/reading-7392855_1280.jpg" alt="Kids Reading" className="rounded-2xl w-full mb-4" />
+                <img src="banner.png" alt="Kids Reading" className="rounded-2xl w-full mb-4" />
                 <h2 className="text-2xl font-bold text-kid-secondary">আজকের সেরা উপদেশটি পড়তে চাও?</h2>
             </div>
 
