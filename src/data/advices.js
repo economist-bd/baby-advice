@@ -15,6 +15,67 @@ export const advicesList = [
         bgColor: "bg-kid-secondary/10",
         borderColor: "border-kid-secondary"
     },
+    
+  // আদব-কায়দা (Manners)
+  { id: 1, category: "Manners", text: "বড়দের দেখলে সালাম বা নমস্কার দাও।" },
+  { id: 2, category: "Manners", text: "কারো সাথে কথা বলার সময় হাসিমুখে কথা বলো।" },
+  { id: 3, category: "Manners", text: "বড়দের সম্মান করো এবং ছোটদের স্নেহ করো।" },
+  { id: 4, category: "Manners", text: "কোনো কিছু চাওয়ার সময় 'দয়া করে' (Please) বলো।" },
+  { id: 5, category: "Manners", text: "কেউ উপকার করলে তাকে 'ধন্যবাদ' (Thank you) জানাও।" },
+  { id: 6, category: "Manners", text: "কারো কথার মাঝখানে কথা বলবে না, তিনি শেষ করলে তুমি শুরু করো।" },
+  { id: 7, category: "Manners", text: "ভুল করে ফেললে সাথে সাথে 'দুঃখিত' (Sorry) বলো।" },
+  { id: 8, category: "Manners", text: "খাওয়ার সময় শব্দ করবে না এবং মুখ বন্ধ করে চিবাবে।" },
+  { id: 9, category: "Manners", text: "মেহমান বা অতিথি আসলে তাদের যত্ন করো।" },
+  { id: 10, category: "Manners", text: "অন্যের ঘরে ঢোকার আগে অনুমতি নাও।" },
+
+  // স্বাস্থ্য (Health)
+  { id: 11, category: "Health", text: "খাওয়ার আগে ও পরে সাবান দিয়ে ভালো করে হাত ধোও।" },
+  { id: 12, category: "Health", text: "প্রতিদিন সকালে ও রাতে ঘুমানোর আগে দাঁত মাজো।" },
+  { id: 13, category: "Health", text: "নখ বড় হলে তা কেটে ছোট রাখো।" },
+  { id: 14, category: "Health", text: "বাইরে থেকে ফিরে হাত-মুখ ধুয়ে নাও।" },
+  { id: 15, category: "Health", text: "হাঁচি বা কাশির সময় মুখে রুমাল বা হাত দাও।" },
+  { id: 16, category: "Health", text: "প্রতিদিন গোসল করো এবং পরিষ্কার জামাকাপড় পরো।" },
+  { id: 17, category: "Health", text: "বাইরের খোলা বা বাসি খাবার খাবে না।" },
+  { id: 18, category: "Health", text: "পর্যাপ্ত পরিমাণে পানি পান করো।" },
+  { id: 19, category: "Health", text: "টয়লেট ব্যবহারের পর সাবান দিয়ে হাত ধোও।" },
+  { id: 20, category: "Health", text: "যেখানে সেখানে থুথু বা ময়লা ফেলবে না।" },
+
+  // নৈতিকতা (Morality)
+  { id: 21, category: "Morality", text: "সবসময় সত্য কথা বলবে, মিথ্যা বলা খুব খারাপ অভ্যাস।" },
+  { id: 22, category: "Morality", text: "নিজের ভুল হলে তা সাহসের সাথে স্বীকার করো।" },
+  { id: 23, category: "Morality", text: "অন্যের জিনিস না বলে ধরবে না বা নেবে না।" },
+  { id: 24, category: "Morality", text: "কথা দিলে কথা রাখার চেষ্টা করো।" },
+  { id: 25, category: "Morality", text: "হিংসা করা থেকে দূরে থাকো, সবার ভালো চাও।" },
+  { id: 26, category: "Morality", text: "ঝগড়া বা মারামারি করা ভালো শিশুর কাজ নয়।" },
+  { id: 27, category: "Morality", text: "কাউকে নিয়ে আড়ালে খারাপ কথা (গীবত) বলবে না।" },
+  { id: 28, category: "Morality", text: "সবসময় সৎ পথে চলো, সৃষ্টিকর্তা খুশি হবেন।" },
+  { id: 29, category: "Morality", text: "দুর্বল বা অসহায়কে সাহায্য করো।" },
+  { id: 30, category: "Morality", text: "নিজের কাজ নিজেই করার চেষ্টা করো।" },
+
+  // পড়াশোনা (Study)
+  { id: 31, category: "Study", text: "প্রতিদিনের পড়া প্রতিদিন শেষ করো, জমিয়ে রেখো না।" },
+  { id: 32, category: "Study", text: "পড়ার সময় মনোযোগ দিয়ে পড়ো, খেলার সময় খেলো।" },
+  { id: 33, category: "Study", text: "স্কুল ও ক্লাসের নিয়মকানুন মেনে চলো।" },
+  { id: 34, category: "Study", text: "রাত জাগবে না, তাড়াতাড়ি ঘুমাতে যাও এবং ভোরে ওঠো।" },
+  { id: 35, category: "Study", text: "বই-খাতা ও নিজের পড়ার টেবিল সবসময় গুছিয়ে রাখো।" },
+  { id: 36, category: "Study", text: "শিক্ষক ও গুরুজনদের কথা মেনে চলো।" },
+  { id: 37, category: "Study", text: "প্রতিদিন কিছু সময় নতুন কিছু শেখার চেষ্টা করো।" },
+  { id: 38, category: "Study", text: "মোবাইলে বা টিভিতে বেশিক্ষণ সময় নষ্ট করবে না।" },
+  { id: 39, category: "Study", text: "প্রশ্ন করতে লজ্জা পাবে না, না বুঝলে বারবার জিজ্ঞেস করো।" },
+  { id: 40, category: "Study", text: "সুন্দর হাতের লেখা অনুশীলন করো।" },
+
+  // সামাজিক (Social)
+  { id: 41, category: "Social", text: "পশুপাখিকে কখনো কষ্ট দেবে না, তাদের ভালোবাসো।" },
+  { id: 42, category: "Social", text: "খাবার অপচয় করবে না, যতটুকু খাবে ততটুকুই নাও।" },
+  { id: 43, category: "Social", text: "রাস্তা পার হওয়ার সময় ডানে-বাঁয়ে দেখে সাবধানে পার হও।" },
+  { id: 44, category: "Social", text: "অপরিচিত কারো দেওয়া খাবার খাবে না বা তাদের সাথে যাবে না।" },
+  { id: 45, category: "Social", text: "বন্ধুদের সাথে খেলনা বা খাবার ভাগ করে নাও।" },
+  { id: 46, category: "Social", text: "গাছপালা বা ফুলের ক্ষতি করবে না, প্রয়োজনে গাছ লাগাও।" },
+  { id: 47, category: "Social", text: "কেউ পড়ে গেলে তাকে হাসাহাসি না করে টেনে তোলো।" },
+  { id: 48, category: "Social", text: "বাসার কাজে মা-বাবাকে ছোট ছোট সাহায্য করো।" },
+  { id: 49, category: "Social", text: "বিদ্যুৎ ও পানি অপচয় করবে না, কাজ শেষে ফ্যান-লাইট বন্ধ করো।" },
+  { id: 50, category: "Social", text: "নিজেকে ভালোবাসো এবং সবসময় আত্মবিশ্বাসী থাকো।" },
+
     {
         id: 3,
         title: "সময়ের মূল্য দাও",
