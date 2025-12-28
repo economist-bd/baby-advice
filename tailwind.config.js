@@ -9,3 +9,10 @@ export default {
   },
   plugins: [],
 }
+theme: {
+  extend: {
+    fontFamily: {
+      sans: ['"Baloo Da 2"', 'cursive', 'sans-serif'],
+    },
+  },
+},
