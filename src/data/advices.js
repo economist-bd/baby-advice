@@ -17,7 +17,9 @@ export const advicesList = [
     },
     
   // আদব-কায়দা (Manners)
-  { id: 1, category: "Manners", text: "বড়দের দেখলে সালাম বা নমস্কার দাও।" },
+  { id: 1, category: "Manners", text: "বড়দের দেখলে সালাম বা নমস্কার দাও।,"image: "https://i.ibb.co.com/7t1HCxhX/aa0d41d7-b5d0-4711-aa10-11750dfb8bed-Copy-Copy.jpg",
+        bgColor: "bg-kid-secondary/10",
+        borderColor: "border-kid-secondary" },
   { id: 2, category: "Manners", text: "কারো সাথে কথা বলার সময় হাসিমুখে কথা বলো।" },
   { id: 3, category: "Manners", text: "বড়দের সম্মান করো এবং ছোটদের স্নেহ করো।" },
   { id: 4, category: "Manners", text: "কোনো কিছু চাওয়ার সময় 'দয়া করে' (Please) বলো।" },
